@@ -19,7 +19,7 @@
 <body>
   <div class="container">
     <form id="form" class="form">
-      <small id="errorMsg" class="error hide">Вы ранее были зарегистрированы!</small>
+      <small id="errorMsg" class="error hide">Вы ранее были зарегистрированы! Введите другой email!</small>
       <div class="form-control">
         <label>Имя пользователя</label>
         <input type="text" name="name" placeholder="Имя" id="name"></input>
